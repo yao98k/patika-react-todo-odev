@@ -1,3 +1,24 @@
+
+Ödev 2
+Gereksinimler
+Aşağıda çalışır hali paylaşılan çalışmayı bir React uygulaması olarak çalışır hale getirmek.
+
+Çalışmanın orijinal hali
+
+HTML & CSS
+
+Yukarıda paylaşılan ikinci bağlantıda orijinal çalışmada bulunan ancak sizin işinize yaramayacak olan tanımlar kaldırıldı. O bağlantıdaki HTML ve CSS tanımlarını kullanarak geliştirmeye başlayabilirsiniz.
+
+Dosya dizin isimlendirmesini dilediğiniz gibi yapabilirsiniz.
+
+
+
+Ödev Link : https://app.patika.dev/courses/react/odev2
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +89,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
