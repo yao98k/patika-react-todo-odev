@@ -1,3 +1,5 @@
+Patika : www.patika.dev
+Ödev Link : https://app.patika.dev/courses/react/odev2
 
 Ödev 2
 Gereksinimler
@@ -13,7 +15,8 @@ Dosya dizin isimlendirmesini dilediğiniz gibi yapabilirsiniz.
 
 
 
-Ödev Link : https://app.patika.dev/courses/react/odev2
+
+
 
 
 
